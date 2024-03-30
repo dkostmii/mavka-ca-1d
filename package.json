@@ -4,12 +4,12 @@
   "description": "Клітинковий автомат у Мавці",
   "main": "index.js",
   "scripts": {
-    "start": "мавка старт"
+    "start": "джеджалик старт старт.м"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mavka": "^0.10.9"
+    "jejalyk": "^0.94.0"
   }
 }
